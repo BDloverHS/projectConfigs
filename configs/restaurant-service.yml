@@ -7,4 +7,4 @@ spring:
     password:
   jpa:
     hibernate:
-      ddlAuto: create
+      ddlAuto: update
